@@ -1,1 +1,1 @@
-# samuelBoye-Abroquah.github.io
+# SamuelBoye-Abroquah.github.io
