@@ -64,5 +64,5 @@ SELECT
              )
     END AS damage_reported
 
-FROM twellium.dirty_shipments
+FROM dirty_shipments
 WHERE items_count > 0;
